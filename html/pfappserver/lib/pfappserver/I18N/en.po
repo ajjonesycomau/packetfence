@@ -7283,6 +7283,10 @@ msgstr ""
 msgid "The threshold (in seconds) after which a device will be placed in parking.A value of 0 deactivates the parking detection.The detection works by looking at the time in seconds a device has been in the registration role and comparing it with this threshold."
 msgstr ""
 
+# conf/documentation.conf (omapi.timeout)
+msgid "The timeout on the OMAPI socket"
+msgstr ""
+
 # html/pfappserver/lib/pfappserver/Form/Config/Authentication/Source/Stripe.pm
 msgid "The type of payment the user will make. Charge is a one time fee, subscription will be arecurring fee."
 msgstr ""
@@ -8877,6 +8881,8 @@ msgstr ""
 # conf/documentation.conf (network.force_listener_update_on_ack options)
 # conf/documentation.conf (network.hostname_change_detection options)
 # conf/documentation.conf (network.rogue_dhcp_detection options)
+# conf/documentation.conf (omapi.ip2mac_lookup options)
+# conf/documentation.conf (omapi.mac2ip_lookup options)
 # conf/documentation.conf (parking.place_in_dhcp_parking_group options)
 # conf/documentation.conf (parking.show_parking_portal options)
 # conf/documentation.conf (provisioning.autoconfig options)
@@ -8996,6 +9002,8 @@ msgstr ""
 # conf/documentation.conf (network.force_listener_update_on_ack options)
 # conf/documentation.conf (network.hostname_change_detection options)
 # conf/documentation.conf (network.rogue_dhcp_detection options)
+# conf/documentation.conf (omapi.ip2mac_lookup options)
+# conf/documentation.conf (omapi.mac2ip_lookup options)
 # conf/documentation.conf (parking.place_in_dhcp_parking_group options)
 # conf/documentation.conf (parking.show_parking_portal options)
 # conf/documentation.conf (provisioning.autoconfig options)
